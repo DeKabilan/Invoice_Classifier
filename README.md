@@ -9,4 +9,6 @@
  <img src="./assets/Cosine_Similarity.png"><br>
  <b>Example:</b>
  <p>Consider the Table below</p>
- <img src = "./assets/example">
+ <img src = "./assets/table.png"><br>
+ <p>Here the Cosine Similarity can be Calculated by knowing the Repeated Words</p>
+ <img src="./assets/example.png"><br>
