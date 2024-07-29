@@ -19,6 +19,10 @@
  <br>
  <b>Instruction on how to Run the Program:</b><br>
  <br>
- <p>1) Install all the Necessary Libraries ny using pip install -r requirements.txt</p>
+ <p>1) Install all the Necessary Libraries by using pip install -r requirements.txt</p>
  <p>2) Classify the Train and Test Directories as Mentioned. (Keep all the Train Files into Train and Test Files into Test Directory</p>
  <p>3) Modify the Filename in the Program to the File which is being Tested and Run the Program</p>
+
+<b>Output: </b>
+
+<img src="./assets/output.png">
