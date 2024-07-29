@@ -17,7 +17,7 @@
  <b>Classification: </b><br>
  <p>To find the similarity, the Cosine Similarity of test PDF to all the PDFs in the Train Directory is computed and the PDF having the largest Cosine Similarity is the most similar to test PDF. Note: In some cases the PDFs don't match and result in a low Similatrity value. So if the Similarity Value is less than 0.2 then the program assumes that there is no match</p>
  <br>
- <b>Instruction on how to Run the Program:</b>
+ <b>Instruction on how to Run the Program:</b><br>
  <br>
  <p>1) Install all the Necessary Libraries ny using pip install -r requirements.txt</p>
  <p>2) Classify the Train and Test Directories as Mentioned. (Keep all the Train Files into Train and Test Files into Test Directory</p>
