@@ -6,9 +6,9 @@
  
  <b>Similarity Metric - Cosine Similarity:</b>
  <p>By finding the repeated words from the two PDFs using a Hashmap we can calculate the Cosine Similarity using the formula given below,</p><br>
- <img src="./assets/Cosine_Similarity.png"><br>
+ <img src="./assets/Cosine_Similarity.png">
  <b>Example:</b>
  <p>Consider the Table below</p>
- <img src = "./assets/table.png"><br>
+ <img src = "./assets/table.png">
  <p>Here the Cosine Similarity can be Calculated by knowing the Repeated Words</p>
- <img src="./assets/example.png"><br>
+ <img src="./assets/example.png">
